@@ -1,0 +1,17 @@
+;--AFTER CHANGING THIS FILE YOU NEED TO UPDATE THE COLORS (The update colors button next to the 'edit colors button' on the settings-skin)--
+[Variables]
+
+MainColorStandard=40,40,40
+PadColor=40,40,40
+
+Cursor=Cross
+;Put a ; infront of the above line to disable the 'crosshair on hover' feature. 
+
+;-------------------------
+MainColorWarning=255,40,40
+MainColorAlpha=200 	;Range from 255 (solid) to 1 (transparent). DO NOT SET TO 0!
+PadColorAlpha=255	;Range from 255 (solid) to 1 (transparent). DO NOT SET TO 0!
+
+
+PadPadding=5,5,5,5
+TextColor=255,255,255
