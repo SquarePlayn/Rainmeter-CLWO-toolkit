@@ -6,6 +6,16 @@ A toolkit with rainmeter skins made for the clwo.eu community<br>
 -DockSettings<br>
 -Shoutbox<br>
 <br>
+<b>How to install</b><br>
+1. Download and install Rainmeter (<a href="https://www.rainmeter.net/">www.rainmeter.net</a>)<br>
+2. Download the CLWO Toolkit_1.0.rmskin (<a href="https://github.com/SquarePlayn/Rainmeter-CLWO-toolkit/blob/master/CLWO%20Toolkit_1.0.rmskin?raw=true">Direct link</a>)<br>
+3. Open the CLWO Toolkit_1.0.rmskin and install it. The dock-skin should load by default.<br>
+If you want to use the shoutbox: <br>
+4. Open Rainmeter<br>
+5. Open the following path: CLWO/Shoutbox<br>
+6. Doubleclick on the shoutbox.ini<br>
+7. Enjoy!<br>
+<br>
 <b>Dock:</b><br />
 The dock displays information about the current state of the clwo.eu jailbreak server.<br>
 It displays the amount of players online, as well as the current map.<br>
@@ -29,7 +39,7 @@ It also has a button to open the settings-file in which you can set a custom col
 After you have edited and saved the settings-file, the Update button should be pressed to update the colors.<br>
 <br>
 <b>Shoutbox:</b><br>
-First note: the shoutbox skin is a work in progress.<br>
+First note: the shoutbox skin is functional, but it is still a 'work in progress'.<br>
 It currently shows the last 8 messages sent in the shoutbox.<br>
 The messaged do not include private shouts.<br>
 When you hover over the shoutbox, it expands to the right, allowing you to read long messages that don't fit in the default size.<br>
