@@ -6,7 +6,7 @@ Includes the following skins:
 -DockSettings
 -Shoutbox
 
-Dock:
+Dock:/n
 The dock displays information about the current state of the clwo.eu jailbreak server.
 It displays the amount of players online, as well as the current map.
 This info updates roughly once every 2 seconds.
