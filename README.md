@@ -8,8 +8,8 @@ A toolkit with rainmeter skins made for the clwo.eu community<br>
 <br>
 <b>How to install</b><br>
 1. Download and install Rainmeter (<a href="https://www.rainmeter.net/">www.rainmeter.net</a>)<br>
-2. Download the CLWO Toolkit_1.0.rmskin (<a href="https://github.com/SquarePlayn/Rainmeter-CLWO-toolkit/blob/master/CLWO%20Toolkit_1.0.rmskin?raw=true">Direct link</a>)<br>
-3. Open the CLWO Toolkit_1.0.rmskin and install it. The dock-skin should load by default.<br>
+2. Download the CLWO Toolkit_2.0.rmskin <br>
+3. Open the CLWO Toolkit_2.0.rmskin and install it. The dock-skin should load by default.<br>
 If you want to use the shoutbox: <br>
 4. Open Rainmeter<br>
 5. Open the following path: CLWO/Shoutbox<br>
